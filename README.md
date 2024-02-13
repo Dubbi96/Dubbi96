@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JongWon,Kang
-- 👀 I’m interested in Computer Vision, Natural Language Processing
-- 🌱 I’m currently learning Natural Language Processing(Recurrent Neural Network)
+- 👀 I’m interested in Computer Vision, Backend Development(Spring)
+- 🌱 I’m currently learning Spring Framework
 - 📫 You can reach me by E-mail (yrs03001@hanyang.ac.kr)
 
 <!---
